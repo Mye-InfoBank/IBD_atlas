@@ -1,0 +1,32 @@
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Docker
+.dockerignore
+
+# Logs
+logs/
+*.log
+
+# Data files (large files)
+*.h5ad
+*.h5Seurat
+
+# Backup files
+*.bak
+*.backup
+
+

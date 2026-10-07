@@ -1,0 +1,14 @@
+sample,filtered,batch_col,symbol_col,label_col,condition_col,unknown_label,min_genes,min_counts_cell,max_mito_percentage,counts_layer
+boland,/nfs/data/COST_IBD/versions/IBD/data/core/boland.h5ad,dataset,index,cell_type_tier_2,condition,Unknown,,,,X
+elmentaite,/nfs/data/COST_IBD/versions/IBD/data/core/elmentaite.h5ad,dataset,index,cell_type_tier_2,condition,Unknown,490,974,,X
+garrido,/nfs/data/COST_IBD/versions/IBD/data/core/garrido.h5ad,dataset,index,cell_type_tier_2,condition,Unknown,,,,X
+kinchen,/nfs/data/COST_IBD/versions/IBD/data/core/kinchen.h5ad,dataset,none,cell_type_tier_2,condition,Unknown,,,,X
+ke,/nfs/data/COST_IBD/versions/IBD/data/core/ke.h5ad,dataset,index,cell_type_tier_2,condition,Unknown,,,,X
+kong,/nfs/data/COST_IBD/versions/IBD/data/core/kong.h5ad,dataset,index,cell_type_tier_2,condition,Unknown,200,1000,,X
+korsunsky,/nfs/data/COST_IBD/versions/IBD/data/core/korsunsky.h5ad,dataset,index,cell_type_tier_2,condition,Unknown,,,,X
+levantovsky,/nfs/data/COST_IBD/versions/IBD/data/core/levantovsky.h5ad,dataset,index,cell_type_tier_2,condition,Unknown,,,,decontXcounts
+parikh,/nfs/data/COST_IBD/versions/IBD/data/core/parik.h5ad,dataset,none,cell_type_tier_2,condition,Unknown,,,20,X
+smillie,/nfs/data/COST_IBD/versions/IBD/data/core/smillie.h5ad,dataset,index,cell_type_tier_2,condition,Unknown,,,,X
+unpublished,/nfs/data/COST_IBD/versions/IBD/data/core/unpublished.h5ad,dataset,index,cell_type_tier_2,condition,Unknown,100,6000,,X
+uzzan,/nfs/data/COST_IBD/versions/IBD/data/core/uzzan.h5ad,dataset,index,cell_type_tier_2,condition,Unknown,,,,X
+wu,/nfs/data/COST_IBD/versions/IBD/data/core/wu.h5ad,dataset,index,cell_type_tier_2,condition,Unknown,,,,decontXcounts
